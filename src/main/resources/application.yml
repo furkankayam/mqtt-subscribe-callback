@@ -1,0 +1,5 @@
+server:
+  port: 8081
+
+mqtt:
+  client: "tcp://0.0.0.0"
